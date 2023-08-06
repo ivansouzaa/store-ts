@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": "Brazilian Jersey",
+    "hasChildren": true,
+    "url": "/busca",
+    "children": [
+      {
+        "id": 5,
+        "name": "Corinthians",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Corinthians",
+        "MetaTagDescription": "Corinthians"
+      },
+      {
+        "id": 8,
+        "name": "Corinthians Away",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Corinthians Away",
+        "MetaTagDescription": "Corinthians Away"
+      },
+      {
+        "id": 9,
+        "name": "Corinthians Home",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Corinthians Home",
+        "MetaTagDescription": "Corinthians Home"
+      },
+      {
+        "id": 10,
+        "name": "Corinthians 2012",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Corinthians 2012",
+        "MetaTagDescription": "Corinthians 2012"
+      },
+      {
+        "id": 11,
+        "name": "Corinthians 2000",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Corinthians 2000",
+        "MetaTagDescription": "Corinthians 2000"
+      },
+      {
+        "id": 18439,
+        "name": "Corinthians Away",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Corinthians Away",
+        "MetaTagDescription": ""
+      },
+      {
+        "id": 18440,
+        "name": "Corinthians",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Corinthians",
+        "MetaTagDescription": ""
+      }
+    ],
+    "Title": "Brazilian Jersey",
+    "MetaTagDescription": "Brazilian Jersey"
+  },
+  {
+    "id": 2,
+    "name": "European Jersey",
+    "hasChildren": true,
+    "url": "/busca",
+    "children": [
+      {
+        "id": 4,
+        "name": "Arsenal",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Arsenal",
+        "MetaTagDescription": "Arsenal"
+      },
+      {
+        "id": 6,
+        "name": "Chelsea",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Chelsea",
+        "MetaTagDescription": "Chelsea"
+      },
+      {
+        "id": 7,
+        "name": "Real Madrid",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Real Madrid",
+        "MetaTagDescription": "Real Madrid"
+      }
+    ],
+    "Title": "European Jersey",
+    "MetaTagDescription": "European Jersey"
+  },
+  {
+    "id": 3,
+    "name": "Nba jersey",
+    "hasChildren": true,
+    "url": "/busca",
+    "children": [
+      {
+        "id": 17,
+        "name": "Lakers",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Lakers",
+        "MetaTagDescription": "Lakers"
+      },
+      {
+        "id": 18,
+        "name": "Phoenix Suns",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Phoenix Suns",
+        "MetaTagDescription": "Phoenix Suns"
+      },
+      {
+        "id": 19,
+        "name": "Lakers",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Lakers",
+        "MetaTagDescription": "Lakers"
+      },
+      {
+        "id": 20,
+        "name": "Phoenix Suns",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Phoenix Suns",
+        "MetaTagDescription": "Phoenix Suns"
+      }
+    ],
+    "Title": "Nba jersey",
+    "MetaTagDescription": "Nba jersey"
+  },
+  {
+    "id": 12,
+    "name": "NFL Jersey",
+    "hasChildren": true,
+    "url": "/busca",
+    "children": [
+      {
+        "id": 13,
+        "name": "Chiefs",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Chiefs",
+        "MetaTagDescription": "Chiefs"
+      },
+      {
+        "id": 14,
+        "name": "Patriots",
+        "hasChildren": false,
+        "url": "/busca",
+        "children": [],
+        "Title": "Patriots",
+        "MetaTagDescription": "Patriots"
+      },
+      {
+        "id": 15,
+        "name": "Jets",
+        "hasChildren": true,
+        "url": "/busca",
+        "Title": "Jets",
+        "MetaTagDescription": "Jets"
+      },
+      {
+        "id": 16,
+        "name": "Chiefs",
+        "hasChildren": true,
+        "url": "/busca",
+        "children": [
+          {
+            "id": 95,
+            "name": "Facial",
+            "hasChildren": false,
+            "url": "/busca",
+            "children": [],
+            "Title": "Facial",
+            "MetaTagDescription": "Facial"
+          },
+          {
+            "id": 96,
+            "name": "Corporal",
+            "hasChildren": false,
+            "url": "/busca",
+            "children": [],
+            "Title": "Corporal",
+            "MetaTagDescription": "Corporal"
+          }
+        ],
+        "Title": "Chiefs",
+        "MetaTagDescription": "Chiefs"
+      }
+    ],
+    "Title": "NFL Jersey",
+    "MetaTagDescription": "NFL Jersey"
+  },
+  {
+    "id": 21,
+    "name": "Outlet",
+    "hasChildren": false,
+    "url": "/busca",
+    "Title": "Outlet",
+    "MetaTagDescription": "Outlet"
+  }
+]

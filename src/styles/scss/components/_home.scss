@@ -1,0 +1,36 @@
+.carousel-banner {
+  position: relative;
+  .carousel-container {
+    .carousel-item {
+      display: none;
+    }
+
+    .carousel-item-active {
+      display: block;
+    }
+    img {
+      width: 100%;
+    }
+  }
+  button {
+    top: 50%;
+    transform: translatey(-50%);
+    position: absolute;
+    border: solid var(--primary);
+    border-width: 0 6px 6px 0;
+    display: inline-block;
+    padding: 0.3rem;
+    background: none;
+    cursor: pointer;
+    &.button-prev {
+      left: 30px;
+      transform: rotate(135deg);
+      -webkit-transform: rotate(135deg);
+    }
+    &.button-next {
+      right: 30px;
+      transform: rotate(-45deg);
+      -webkit-transform: rotate(-45deg);
+    }
+  }
+}

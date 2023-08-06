@@ -1,0 +1,3968 @@
+[
+  {
+    "productId": "18",
+    "productName": "Jersey Borussia Dortmund",
+    "brand": "Borussia",
+    "brandId": 2000012,
+    "brandImageUrl": null,
+    "linkText": "jersey-borussia",
+    "productReference": "33233",
+    "productReferenceCode": "33233",
+    "categoryId": "28",
+    "productTitle": "Jersey Borussia Dortmund",
+    "metaTagDescription": "Our best jersey",
+    "releaseDate": "2022-02-17T00:00:00Z",
+    "clusterHighlights": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "productClusters": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "searchableClusters": {},
+    "categories": ["/Jersey", "/Jersey/Borussia"],
+    "categoriesIds": ["/24/28/", "/24/"],
+    "link": "/teste",
+    "description": "Our best jersey",
+    "items": [
+      {
+        "itemId": "20",
+        "name": "Jersey Borussia Dortmund",
+        "nameComplete": "Jersey Borussia Dortmund",
+        "complementName": "",
+        "ean": "7790375267803",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "9957487"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1.0,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "531507",
+            "imageLabel": "",
+            "imageUrl": "https://i.postimg.cc/J0f8wMvT/borussia.jpg",
+            "imageText": "170",
+            "imageLastModified": "2022-08-02T18:35:36.6030000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Ivan Souza",
+            "addToCartLink": "/checkout/cart/add?sku=20&qty=1&seller=1&sc=1&price=133260&cv=3E73138A5BA04B889C3E697184200033_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 1332.6,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 567.78,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 336.64,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 1332.6,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 531.75,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 329.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 258.86,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 226.53,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 1332.6,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 531.75,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 329.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 258.86,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 226.53,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 1332.6,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa Electron",
+                  "PaymentSystemGroupName": "debitCardPaymentGroup",
+                  "Name": "Visa Electron à vista"
+                },
+                {
+                  "Value": 1332.6,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "MercadoPagoPro",
+                  "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+                  "Name": "MercadoPagoPro à vista"
+                },
+                {
+                  "Value": 1332.6,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1332.6,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Modo Payment",
+                  "PaymentSystemGroupName": "Modo PaymentPaymentGroup",
+                  "Name": "Modo Payment à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 1332.6,
+              "ListPrice": 2221.0,
+              "PriceWithoutDiscount": 2221.0,
+              "RewardValue": 0.0,
+              "PriceValidUntil": "2023-11-26T18:28:09Z",
+              "AvailableQuantity": 19,
+              "IsAvailable": true,
+              "Tax": 0.0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "3E73138A5BA04B889C3E697184200033_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 133260,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 133260,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 133260,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 56778,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 56778,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 33664,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 33664,
+                            "total": 133260
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 133260,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 133260,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 133260,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 53175,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 53175,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 32948,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 32948,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 25886,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 25886,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 22653,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 22653,
+                            "total": 133260
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 133260,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 133260,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 133260,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 53175,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 53175,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 32948,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 32948,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 25886,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 25886,
+                            "total": 133260
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 22653,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 22653,
+                            "total": 133260
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "10",
+                    "bin": null,
+                    "paymentName": "Visa Electron",
+                    "paymentGroupName": "debitCardPaymentGroup",
+                    "value": 133260,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 133260,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 133260,
+                            "total": 133260
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "127",
+                    "bin": null,
+                    "paymentName": "MercadoPagoPro",
+                    "paymentGroupName": "MercadoPagoProPaymentGroup",
+                    "value": 133260,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 133260,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 133260,
+                            "total": 133260
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "187",
+                    "bin": null,
+                    "paymentName": "Modo Payment",
+                    "paymentGroupName": "Modo PaymentPaymentGroup",
+                    "value": 133260,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 133260,
+                        "total": 133260,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 133260,
+                            "total": 133260
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 127,
+                    "name": "MercadoPagoPro",
+                    "groupName": "MercadoPagoProPaymentGroup",
+                    "validator": null,
+                    "stringId": "127",
+                    "template": "MercadoPagoProPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 10,
+                    "name": "Visa Electron",
+                    "groupName": "debitCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "10",
+                    "template": "debitCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 187,
+                    "name": "Modo Payment",
+                    "groupName": "Modo PaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "187",
+                    "template": "Modo PaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  },
+  {
+    "productId": "3550",
+    "productName": "Jersey Corinthians",
+    "brand": "Corinthians",
+    "brandId": 2000012,
+    "brandImageUrl": null,
+    "linkText": "jersey-corinthians",
+    "productReference": "9959030",
+    "productReferenceCode": "9959030",
+    "categoryId": "70659",
+    "productTitle": "Jersey Corinthians",
+    "metaTagDescription": "Jersey Corinthians",
+    "releaseDate": "2022-02-21T00:00:00Z",
+    "clusterHighlights": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "productClusters": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "searchableClusters": {},
+    "categories": ["/Jersey/Corinthians"],
+    "categoriesIds": ["/24/26/70659/", "/24/26/", "/24/"],
+    "link": "/jersey-corinthians",
+    "description": "Jersey Corinthians",
+    "items": [
+      {
+        "itemId": "3569",
+        "name": "Jersey Corinthians",
+        "nameComplete": "Jersey Corinthians",
+        "complementName": "",
+        "ean": "7790375269678",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "9959030"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1.0,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "530873",
+            "imageLabel": "Jersey Corinthians",
+            "imageUrl": "https://i.postimg.cc/xd113T2H/corinthians.jpg",
+            "imageText": "75",
+            "imageLastModified": "2022-07-18T16:00:00.6200000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Ivan Souza",
+            "addToCartLink": "/checkout/cart/add?sku=3569&qty=1&seller=1&sc=1&price=49920&cv=7779158762B941808A6AE8FBE5694692_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 499.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 212.69,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 126.11,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 499.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 199.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 123.43,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 96.97,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 84.86,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 499.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 199.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 123.43,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 96.97,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 84.86,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 499.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa Electron",
+                  "PaymentSystemGroupName": "debitCardPaymentGroup",
+                  "Name": "Visa Electron à vista"
+                },
+                {
+                  "Value": 499.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "MercadoPagoPro",
+                  "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+                  "Name": "MercadoPagoPro à vista"
+                },
+                {
+                  "Value": 499.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 499.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Modo Payment",
+                  "PaymentSystemGroupName": "Modo PaymentPaymentGroup",
+                  "Name": "Modo Payment à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 499.2,
+              "ListPrice": 832.0,
+              "PriceWithoutDiscount": 832.0,
+              "RewardValue": 0.0,
+              "PriceValidUntil": "2023-11-26T18:28:09Z",
+              "AvailableQuantity": 5,
+              "IsAvailable": true,
+              "Tax": 0.0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "7779158762B941808A6AE8FBE5694692_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 49920,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 49920,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 49920,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 21269,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 21269,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 12611,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 12611,
+                            "total": 49920
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 49920,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 49920,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 49920,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 19920,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 19920,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 12343,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 12343,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 9697,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 9697,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 8486,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 8486,
+                            "total": 49920
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 49920,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 49920,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 49920,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 19920,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 19920,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 12343,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 12343,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 9697,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 9697,
+                            "total": 49920
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 8486,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 8486,
+                            "total": 49920
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "10",
+                    "bin": null,
+                    "paymentName": "Visa Electron",
+                    "paymentGroupName": "debitCardPaymentGroup",
+                    "value": 49920,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 49920,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 49920,
+                            "total": 49920
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "127",
+                    "bin": null,
+                    "paymentName": "MercadoPagoPro",
+                    "paymentGroupName": "MercadoPagoProPaymentGroup",
+                    "value": 49920,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 49920,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 49920,
+                            "total": 49920
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "187",
+                    "bin": null,
+                    "paymentName": "Modo Payment",
+                    "paymentGroupName": "Modo PaymentPaymentGroup",
+                    "value": 49920,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 49920,
+                        "total": 49920,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 49920,
+                            "total": 49920
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 127,
+                    "name": "MercadoPagoPro",
+                    "groupName": "MercadoPagoProPaymentGroup",
+                    "validator": null,
+                    "stringId": "127",
+                    "template": "MercadoPagoProPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 10,
+                    "name": "Visa Electron",
+                    "groupName": "debitCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "10",
+                    "template": "debitCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 187,
+                    "name": "Modo Payment",
+                    "groupName": "Modo PaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "187",
+                    "template": "Modo PaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  },
+  {
+    "productId": "53",
+    "productName": "Jersey Netherlands",
+    "brand": "Netherlands",
+    "brandId": 2000035,
+    "brandImageUrl": null,
+    "linkText": "jersey-netherlands",
+    "productReference": "9954101",
+    "productReferenceCode": "9954101",
+    "categoryId": "96",
+    "productTitle": "Jersey Netherlands",
+    "metaTagDescription": "Jersey Netherlands",
+    "releaseDate": "2022-02-17T00:00:00Z",
+    "clusterHighlights": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "productClusters": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "searchableClusters": {},
+    "categories": ["/jersey/netherland/"],
+    "categoriesIds": ["/12/16/96/", "/12/16/", "/12/"],
+    "link": "/jersey-netherlands",
+    "description": "Jersey Netherlands",
+    "items": [
+      {
+        "itemId": "55",
+        "name": "Jersey Netherlands",
+        "nameComplete": "Jersey Netherlands",
+        "complementName": "",
+        "ean": "7790375268428",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "9954101"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1.0,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "527430",
+            "imageLabel": "",
+            "imageUrl": "https://i.postimg.cc/yNpYQ41G/holanda.jpg",
+            "imageText": "Jersey-Netherlands",
+            "imageLastModified": "2022-03-26T20:35:08.2730000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Ivan Souza",
+            "addToCartLink": "/checkout/cart/add?sku=55&qty=1&seller=1&sc=1&price=144720&cv=CBF1752F582543218A3993CD74AB5A6C_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 616.6,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 365.59,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 577.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 357.82,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 281.13,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 246.01,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 577.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 357.82,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 281.13,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 246.01,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa Electron",
+                  "PaymentSystemGroupName": "debitCardPaymentGroup",
+                  "Name": "Visa Electron à vista"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "MercadoPagoPro",
+                  "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+                  "Name": "MercadoPagoPro à vista"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Modo Payment",
+                  "PaymentSystemGroupName": "Modo PaymentPaymentGroup",
+                  "Name": "Modo Payment à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 1447.2,
+              "ListPrice": 2412.0,
+              "PriceWithoutDiscount": 2412.0,
+              "RewardValue": 0.0,
+              "PriceValidUntil": "2023-11-26T18:28:09Z",
+              "AvailableQuantity": 19,
+              "IsAvailable": true,
+              "Tax": 0.0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "CBF1752F582543218A3993CD74AB5A6C_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 61660,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 61660,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 36559,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 36559,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 57748,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 57748,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 35782,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 35782,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 28113,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 28113,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 24601,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 24601,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 57748,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 57748,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 35782,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 35782,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 28113,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 28113,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 24601,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 24601,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "10",
+                    "bin": null,
+                    "paymentName": "Visa Electron",
+                    "paymentGroupName": "debitCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "127",
+                    "bin": null,
+                    "paymentName": "MercadoPagoPro",
+                    "paymentGroupName": "MercadoPagoProPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "187",
+                    "bin": null,
+                    "paymentName": "Modo Payment",
+                    "paymentGroupName": "Modo PaymentPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 127,
+                    "name": "MercadoPagoPro",
+                    "groupName": "MercadoPagoProPaymentGroup",
+                    "validator": null,
+                    "stringId": "127",
+                    "template": "MercadoPagoProPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 10,
+                    "name": "Visa Electron",
+                    "groupName": "debitCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "10",
+                    "template": "debitCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 187,
+                    "name": "Modo Payment",
+                    "groupName": "Modo PaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "187",
+                    "template": "Modo PaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  },
+  {
+    "productId": "492",
+    "productName": "Jersey Chelsea",
+    "brand": "Chelsea",
+    "brandId": 2000035,
+    "brandImageUrl": null,
+    "linkText": "Jersey-Chelsea",
+    "productReference": "9954101",
+    "productReferenceCode": "9954101",
+    "categoryId": "96",
+    "productTitle": "Jersey Chelsea",
+    "metaTagDescription": "Jersey Chelsea",
+    "releaseDate": "2022-02-17T00:00:00Z",
+    "clusterHighlights": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "productClusters": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "searchableClusters": {},
+    "categories": ["/jersey/chelsea/"],
+    "categoriesIds": ["/12/16/96/", "/12/16/", "/12/"],
+    "link": "/Jersey-Chelsea",
+    "description": "Jersey Chelsea",
+    "items": [
+      {
+        "itemId": "55",
+        "name": "Jersey Chelsea",
+        "nameComplete": "Jersey Chelsea",
+        "complementName": "",
+        "ean": "7790375268428",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "9954101"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1.0,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "527430",
+            "imageLabel": "",
+            "imageUrl": "https://i.postimg.cc/fLHWP4MF/chelsea.jpg",
+            "imageText": "Jersey-Chelsea",
+            "imageLastModified": "2022-03-26T20:35:08.2730000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Ivan Souza",
+            "addToCartLink": "/checkout/cart/add?sku=55&qty=1&seller=1&sc=1&price=144720&cv=CBF1752F582543218A3993CD74AB5A6C_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 616.6,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 365.59,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 577.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 357.82,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 281.13,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 246.01,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 577.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 357.82,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 281.13,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 246.01,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa Electron",
+                  "PaymentSystemGroupName": "debitCardPaymentGroup",
+                  "Name": "Visa Electron à vista"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "MercadoPagoPro",
+                  "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+                  "Name": "MercadoPagoPro à vista"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Modo Payment",
+                  "PaymentSystemGroupName": "Modo PaymentPaymentGroup",
+                  "Name": "Modo Payment à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 1447.2,
+              "ListPrice": 2412.0,
+              "PriceWithoutDiscount": 2412.0,
+              "RewardValue": 0.0,
+              "PriceValidUntil": "2023-11-26T18:28:09Z",
+              "AvailableQuantity": 19,
+              "IsAvailable": true,
+              "Tax": 0.0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "CBF1752F582543218A3993CD74AB5A6C_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 61660,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 61660,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 36559,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 36559,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 57748,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 57748,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 35782,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 35782,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 28113,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 28113,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 24601,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 24601,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 57748,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 57748,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 35782,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 35782,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 28113,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 28113,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 24601,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 24601,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "10",
+                    "bin": null,
+                    "paymentName": "Visa Electron",
+                    "paymentGroupName": "debitCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "127",
+                    "bin": null,
+                    "paymentName": "MercadoPagoPro",
+                    "paymentGroupName": "MercadoPagoProPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "187",
+                    "bin": null,
+                    "paymentName": "Modo Payment",
+                    "paymentGroupName": "Modo PaymentPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 127,
+                    "name": "MercadoPagoPro",
+                    "groupName": "MercadoPagoProPaymentGroup",
+                    "validator": null,
+                    "stringId": "127",
+                    "template": "MercadoPagoProPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 10,
+                    "name": "Visa Electron",
+                    "groupName": "debitCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "10",
+                    "template": "debitCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 187,
+                    "name": "Modo Payment",
+                    "groupName": "Modo PaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "187",
+                    "template": "Modo PaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  },
+  {
+    "productId": "72",
+    "productName": "Jersey River Plate",
+    "brand": "Bagó",
+    "brandId": 2000035,
+    "brandImageUrl": null,
+    "linkText": "river-plate",
+    "productReference": "9954101",
+    "productReferenceCode": "9954101",
+    "categoryId": "96",
+    "productTitle": "Jersey River Plate",
+    "metaTagDescription": "Jersey River Plate",
+    "releaseDate": "2022-02-17T00:00:00Z",
+    "clusterHighlights": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "productClusters": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "searchableClusters": {},
+    "categories": ["/jersey/river-plate/"],
+    "categoriesIds": ["/12/16/96/", "/12/16/", "/12/"],
+    "link": "/river-plate/p",
+    "description": "Jersey River Plate",
+    "items": [
+      {
+        "itemId": "55",
+        "name": "Jersey River Plate",
+        "nameComplete": "Jersey River Plate",
+        "complementName": "",
+        "ean": "7790375268428",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "9954101"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1.0,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "527430",
+            "imageLabel": "",
+            "imageUrl": "https://i.postimg.cc/9fkCPd15/river-plate.jpg",
+            "imageText": "river-plate",
+            "imageLastModified": "2022-03-26T20:35:08.2730000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Ivan Souza",
+            "addToCartLink": "/checkout/cart/add?sku=55&qty=1&seller=1&sc=1&price=144720&cv=CBF1752F582543218A3993CD74AB5A6C_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 616.6,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 365.59,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 577.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 357.82,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 281.13,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 246.01,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 577.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 357.82,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 281.13,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 246.01,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa Electron",
+                  "PaymentSystemGroupName": "debitCardPaymentGroup",
+                  "Name": "Visa Electron à vista"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "MercadoPagoPro",
+                  "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+                  "Name": "MercadoPagoPro à vista"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Modo Payment",
+                  "PaymentSystemGroupName": "Modo PaymentPaymentGroup",
+                  "Name": "Modo Payment à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 1447.2,
+              "ListPrice": 2412.0,
+              "PriceWithoutDiscount": 2412.0,
+              "RewardValue": 0.0,
+              "PriceValidUntil": "2023-11-26T18:28:09Z",
+              "AvailableQuantity": 19,
+              "IsAvailable": true,
+              "Tax": 0.0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "CBF1752F582543218A3993CD74AB5A6C_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 61660,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 61660,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 36559,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 36559,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 57748,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 57748,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 35782,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 35782,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 28113,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 28113,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 24601,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 24601,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 57748,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 57748,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 35782,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 35782,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 28113,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 28113,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 24601,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 24601,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "10",
+                    "bin": null,
+                    "paymentName": "Visa Electron",
+                    "paymentGroupName": "debitCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "127",
+                    "bin": null,
+                    "paymentName": "MercadoPagoPro",
+                    "paymentGroupName": "MercadoPagoProPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "187",
+                    "bin": null,
+                    "paymentName": "Modo Payment",
+                    "paymentGroupName": "Modo PaymentPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 127,
+                    "name": "MercadoPagoPro",
+                    "groupName": "MercadoPagoProPaymentGroup",
+                    "validator": null,
+                    "stringId": "127",
+                    "template": "MercadoPagoProPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 10,
+                    "name": "Visa Electron",
+                    "groupName": "debitCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "10",
+                    "template": "debitCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 187,
+                    "name": "Modo Payment",
+                    "groupName": "Modo PaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "187",
+                    "template": "Modo PaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  },
+  {
+    "productId": "912",
+    "productName": "Jersey Arsenal 22/23 Home",
+    "brand": "Arsenal",
+    "brandId": 2000035,
+    "brandImageUrl": null,
+    "linkText": "Jersey-Arsenal",
+    "productReference": "9954101",
+    "productReferenceCode": "9954101",
+    "categoryId": "96",
+    "productTitle": "Jersey Arsenal",
+    "metaTagDescription": "Jersey Arsenal",
+    "releaseDate": "2022-02-17T00:00:00Z",
+    "clusterHighlights": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "productClusters": {
+      "210": "40%",
+      "271": "BLACK FRIDAY"
+    },
+    "searchableClusters": {},
+    "categories": ["/Jersey-Arsenal/"],
+    "categoriesIds": ["/12/16/96/", "/12/16/", "/12/"],
+    "link": "/Jersey-Arsenal/p",
+    "description": "Jersey Arsenal",
+    "items": [
+      {
+        "itemId": "55",
+        "name": "Jersey Arsenal",
+        "nameComplete": "Jersey Arsenal",
+        "complementName": "",
+        "ean": "7790375268428",
+        "referenceId": [
+          {
+            "Key": "RefId",
+            "Value": "9954101"
+          }
+        ],
+        "measurementUnit": "un",
+        "unitMultiplier": 1.0,
+        "modalType": null,
+        "isKit": false,
+        "images": [
+          {
+            "imageId": "527430",
+            "imageLabel": "",
+            "imageUrl": "https://i.postimg.cc/FKwXk9sh/arsenal.jpg",
+            "imageText": "Jersey-Arsenal",
+            "imageLastModified": "2022-03-26T20:35:08.2730000Z"
+          }
+        ],
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Ivan Souza",
+            "addToCartLink": "/checkout/cart/add?sku=55&qty=1&seller=1&sc=1&price=144720&cv=CBF1752F582543218A3993CD74AB5A6C_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 616.6,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 365.59,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 577.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 357.82,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 281.13,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 246.01,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 577.48,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 3,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 357.82,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 6,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 281.13,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 9,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 246.01,
+                  "InterestRate": null,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 12,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa Electron",
+                  "PaymentSystemGroupName": "debitCardPaymentGroup",
+                  "Name": "Visa Electron à vista"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "MercadoPagoPro",
+                  "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+                  "Name": "MercadoPagoPro à vista"
+                },
+                {
+                  "Value": 1447.2,
+                  "InterestRate": 0.0,
+                  "TotalValuePlusInterestRate": 1447.2,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Modo Payment",
+                  "PaymentSystemGroupName": "Modo PaymentPaymentGroup",
+                  "Name": "Modo Payment à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "ItemMetadataAttachment": [],
+              "Price": 1447.2,
+              "ListPrice": 2412.0,
+              "PriceWithoutDiscount": 2412.0,
+              "RewardValue": 0.0,
+              "PriceValidUntil": "2023-11-26T18:28:09Z",
+              "AvailableQuantity": 19,
+              "IsAvailable": true,
+              "Tax": 0.0,
+              "DeliverySlaSamples": [
+                {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              ],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "CBF1752F582543218A3993CD74AB5A6C_",
+              "PaymentOptions": {
+                "installmentOptions": [
+                  {
+                    "paymentSystem": "1",
+                    "bin": null,
+                    "paymentName": "American Express",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 61660,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 61660,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 36559,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 36559,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "2",
+                    "bin": null,
+                    "paymentName": "Visa",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 57748,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 57748,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 35782,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 35782,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 28113,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 28113,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 24601,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 24601,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "4",
+                    "bin": null,
+                    "paymentName": "Mastercard",
+                    "paymentGroupName": "creditCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 3,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 57748,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 3,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 57748,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 6,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 35782,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 6,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 35782,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 9,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 28113,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 9,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 28113,
+                            "total": 144720
+                          }
+                        ]
+                      },
+                      {
+                        "count": 12,
+                        "hasInterestRate": null,
+                        "interestRate": null,
+                        "value": 24601,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 12,
+                            "hasInterestRate": null,
+                            "interestRate": null,
+                            "value": 24601,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "10",
+                    "bin": null,
+                    "paymentName": "Visa Electron",
+                    "paymentGroupName": "debitCardPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "127",
+                    "bin": null,
+                    "paymentName": "MercadoPagoPro",
+                    "paymentGroupName": "MercadoPagoProPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "paymentSystem": "187",
+                    "bin": null,
+                    "paymentName": "Modo Payment",
+                    "paymentGroupName": "Modo PaymentPaymentGroup",
+                    "value": 144720,
+                    "installments": [
+                      {
+                        "count": 1,
+                        "hasInterestRate": false,
+                        "interestRate": 0,
+                        "value": 144720,
+                        "total": 144720,
+                        "sellerMerchantInstallments": [
+                          {
+                            "id": "Ivan Souza",
+                            "count": 1,
+                            "hasInterestRate": false,
+                            "interestRate": 0,
+                            "value": 144720,
+                            "total": 144720
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "paymentSystems": [
+                  {
+                    "id": 127,
+                    "name": "MercadoPagoPro",
+                    "groupName": "MercadoPagoProPaymentGroup",
+                    "validator": null,
+                    "stringId": "127",
+                    "template": "MercadoPagoProPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 2,
+                    "name": "Visa",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "2",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 4,
+                    "name": "Mastercard",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "4",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 10,
+                    "name": "Visa Electron",
+                    "groupName": "debitCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "10",
+                    "template": "debitCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 1,
+                    "name": "American Express",
+                    "groupName": "creditCardPaymentGroup",
+                    "validator": null,
+                    "stringId": "1",
+                    "template": "creditCardPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  },
+                  {
+                    "id": 187,
+                    "name": "Modo Payment",
+                    "groupName": "Modo PaymentPaymentGroup",
+                    "validator": null,
+                    "stringId": "187",
+                    "template": "Modo PaymentPaymentGroup-template",
+                    "requiresDocument": false,
+                    "isCustom": false,
+                    "description": null,
+                    "requiresAuthentication": false,
+                    "dueDate": "2022-12-03T18:21:53.2800002Z",
+                    "availablePayments": null
+                  }
+                ],
+                "payments": [],
+                "giftCards": [],
+                "giftCardMessages": [],
+                "availableAccounts": [],
+                "availableTokens": []
+              }
+            }
+          }
+        ],
+        "Videos": [],
+        "estimatedDateArrival": null
+      }
+    ]
+  }
+]
